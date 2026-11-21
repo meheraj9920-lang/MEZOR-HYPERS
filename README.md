@@ -9,7 +9,7 @@
 
 [![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS%20(64--BIT)-MEZOR--HYPERS--Setup.exe-006A4E?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe)
 
-[![Version](https://img.shields.io/badge/Version-v0.6.0%20BEAST%2064X-F42A41?style=flat-square)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest)
+[![Version](https://img.shields.io/badge/Version-v0.7.0%20FLAGSHIP%20PRO-F42A41?style=flat-square)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-006A4E?style=flat-square)](#system-requirements)
 [![Publisher](https://img.shields.io/badge/Publisher-MEZOR%20PUBLICATION%20LIMITED-059669?style=flat-square)](LICENSE)
 [![License](https://img.shields.io/badge/License-Official%20EULA-D97706?style=flat-square)](LICENSE)
@@ -28,7 +28,7 @@
 
 | Package | Version | Size | Download |
 | :--- | :---: | :---: | :---: |
-| **MEZOR HYPERS Official Installer** | `v0.6.0` | ~162 MB | [**Download MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) |
+| **MEZOR HYPERS Official Installer** | `v0.7.0` | ~162 MB | [**Download MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) |
 
 > **All-in-One Installer:** Includes the MEZOR HYPERS Desktop App, FFmpeg Open-Source Video Converter Engine, Native Browser Connector, and the Bengali Browser Extension for Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, and Firefox.
 
