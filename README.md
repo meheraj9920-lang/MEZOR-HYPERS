@@ -1,0 +1,98 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="MEZOR HYPERS Logo" width="128" height="128" />
+
+# MEZOR HYPERS
+### High-Speed Bangladeshi Download Manager, Video Converter & Multi-Browser Suite
+
+**Created by MEHERAJ • Published by MEZOR PUBLICATION LIMITED**
+
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS%20(64--BIT)-MEZOR--HYPERS--Setup.exe-006A4E?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe)
+
+[![Version](https://img.shields.io/badge/Version-v0.1.2-F42A41?style=flat-square)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-006A4E?style=flat-square)](#system-requirements)
+[![Publisher](https://img.shields.io/badge/Publisher-MEZOR%20PUBLICATION%20LIMITED-059669?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Official%20EULA-D97706?style=flat-square)](LICENSE)
+
+*বাংলাদেশের প্রথম আধুনিক, হাই-স্পিড ডাউনলোড ম্যানেজার, বিল্ট-ইন 4K থেকে বাটন-মোবাইল (3GP) ভিডিও কনভার্টার এবং সব ব্রাউজারের বাংলা এক্সটেনশন!*
+
+<br />
+
+<img src="assets/preview.png" alt="MEZOR HYPERS Desktop Interface Preview" width="900" />
+
+</div>
+
+---
+
+## Direct Download (Windows 10 / 11 — 64-Bit)
+
+| Package | Version | Size | Download |
+| :--- | :---: | :---: | :---: |
+| **MEZOR HYPERS Official Installer** | `v0.1.2` | ~144 MB | [**Download MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) |
+
+> **All-in-One Installer:** Includes the MEZOR HYPERS Desktop App, FFmpeg Open-Source Video Converter Engine, Native Browser Connector, and the Bengali Browser Extension for Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, and Firefox.
+
+---
+
+## Why Choose MEZOR HYPERS? (IDM Alternative for Bangladesh)
+
+**MEZOR HYPERS** is engineered by **MEHERAJ** under **MEZOR PUBLICATION LIMITED** as a modern, blazing-fast Windows download manager designed specifically for Bangladeshis — featuring a signature **Sonar Bangla (Light)** and **Sundarbans Night (Dark)** theme, multi-connection turbo acceleration, and full Bengali browser integration.
+
+### Core Features
+
+- **Turbo 16–32 Connection Acceleration (IDM-Style Engine):** Splits large games, ISO files, ZIP archives, and videos into up to **32 simultaneous Keep-Alive connections** with `TCP_NODELAY` and 2–4 MB buffered disk writes for maximum ISP & BDIX speed.
+- **All-Browser Auto-Capture Extension (বাংলা UI):** Works seamlessly with **Google Chrome, Brave, Microsoft Edge, Opera, Opera GX, Vivaldi, and Mozilla Firefox**. Automatically captures YouTube videos (1080p 60fps, 720p, MP3) and large game/archive downloads without duplicate browser Save As popups.
+- **Built-In Pro Video & Audio Converter (4K UHD to Button Mobile 3GP):** Convert and compress any video right inside the app using the bundled open-source FFmpeg engine:
+  - **Video:** `MP4`, `MKV`, `WEBM`, `AVI`, `MOV`, `GIF`, and **`3GP (176×144)` for Button / Feature Phones**
+  - **Audio:** `MP3 (320 kbps HD)`, `MP3 (64 kbps Tiny)`, `M4A`, `WAV`
+  - **Resolutions:** `4K (2160p)`, `2K (1440p)`, `1080p`, `720p`, `480p`, `360p`, `240p`, `144p`, and `Button Phone (176×144)`
+- **Google Login & Cloud Download History Sync:** Sign in with Google (displays your Google profile photo) or Email/Password. Back up your download URLs to Firebase Cloud so even after reinstalling Windows, one click restores your history.
+- **SHA-256 & MD5 File Integrity Verifier:** Verify downloaded games and software installers directly inside the app.
+- **Smart Scheduler, Speed Limiter & Pop Completion Chime:** Schedule overnight downloads, control bandwidth limits, and hear a crisp pop sound when your transfer finishes.
+
+---
+
+## MEZOR HYPERS vs Standard Browser Download
+
+| Feature | MEZOR HYPERS | Normal Browser |
+| :--- | :---: | :---: |
+| Parallel Multi-Connection Speed (Up to 32x) | Yes | No (1 connection) |
+| YouTube 1080p 60fps & MP3 One-Click Download | Yes | No |
+| Auto-Intercept Large Games, ZIP, ISO, EXE | Yes | No |
+| Built-in 4K to 3GP Button-Mobile Video Converter | Yes | No |
+| Pause & Resume Interrupted Large Files | Yes | Limited |
+| Cloud Download History Sync (Google Login) | Yes | No |
+| Signature Bangladeshi Light & Dark Themes | Yes | No |
+
+---
+
+## Quick Installation Guide (ইনস্টল করার নিয়ম)
+
+1. **Download:** Click [**MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) above.
+2. **Install & Launch:** Run `MEZOR-HYPERS-Setup.exe` and open **MEZOR HYPERS**. Sign in with Google or Email to activate your **7-Day Free Trial**.
+3. **Connect Your Browser (1-Time Setup):**
+   - Open **BROWSERS** inside MEZOR HYPERS and click your browser (**Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, or Firefox**).
+   - Enable **Developer Mode** on your browser's Extensions page, click **Load unpacked**, and select `C:\Users\<YourName>\MEZOR-Extension` (automatically created by the installer).
+   - Done! Reload any YouTube or download page and enjoy full turbo speed.
+
+---
+
+## System Requirements
+
+- **OS:** Windows 10 or Windows 11 (64-bit)
+- **RAM:** 2 GB minimum (4 GB recommended)
+- **Disk Space:** 350 MB free space
+- **Supported Browsers:** Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, Firefox
+
+---
+
+## Publisher & License
+
+- **Software:** MEZOR HYPERS
+- **Creator:** MEHERAJ
+- **Publisher:** MEZOR PUBLICATION LIMITED
+- **License:** See [LICENSE](LICENSE)
+
+---
+
+<sub>Keywords: MEZOR HYPERS, MEZOR PUBLICATION LIMITED, MEHERAJ, Bangladesh Download Manager, Best IDM Alternative Bangladesh, Free Windows Download Manager, BDIX Fast Downloader, YouTube Video Downloader Windows, 4K to 3GP Video Converter, Chrome Brave Edge Download Extension.</sub>
