@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meheraj9920-lang.github.io/MEZOR-HYPERS/sitemap.xml
