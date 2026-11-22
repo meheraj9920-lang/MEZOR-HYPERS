@@ -9,7 +9,7 @@
 
 [![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS%20(64--BIT)-MEZOR--HYPERS--Setup.exe-006A4E?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe)
 
-[![Version](https://img.shields.io/badge/Version-v0.7.0%20FLAGSHIP%20PRO-F42A41?style=flat-square)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest)
+[![Version](https://img.shields.io/badge/Version-v0.8.0%20UNIVERSAL%20PRO-F42A41?style=flat-square)](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-006A4E?style=flat-square)](#system-requirements)
 [![Publisher](https://img.shields.io/badge/Publisher-MEZOR%20PUBLICATION%20LIMITED-059669?style=flat-square)](LICENSE)
 [![License](https://img.shields.io/badge/License-Official%20EULA-D97706?style=flat-square)](LICENSE)
@@ -28,9 +28,9 @@
 
 | Package | Version | Size | Download |
 | :--- | :---: | :---: | :---: |
-| **MEZOR HYPERS Official Installer** | `v0.7.0` | ~162 MB | [**Download MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) |
+| **MEZOR HYPERS Official Installer** | `v0.8.0` | ~162 MB | [**Download MEZOR-HYPERS-Setup.exe**](https://github.com/meheraj9920-lang/MEZOR-HYPERS/releases/latest/download/MEZOR-HYPERS-Setup.exe) |
 
-> **All-in-One Installer:** Includes the MEZOR HYPERS Desktop App, FFmpeg Open-Source Video Converter Engine, Native Browser Connector, and the Bengali Browser Extension for Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, and Firefox.
+> **All-in-One Installer:** Includes the MEZOR HYPERS Desktop App, FFmpeg Open-Source Video Converter Engine, Native Browser Connector, and the Bengali Browser Extension for Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, Chromium, Thorium, Yandex, Firefox, Zen, Floorp, Waterfox & LibreWolf.
 
 ---
 
@@ -40,7 +40,8 @@
 
 ### Core Features
 
-- **IDM-Style Dynamic 32X Splitting + Zero-Delay Disk Write + Bundled C++ `aria2c` v1.37:** Real-time in-half work-stealing keeps all 32 connections at 100% speed until the final byte, writes directly to byte offsets for **0-second instant completion**, and adds **BitTorrent / Magnet link** support!
+- **IDM-Grade Universal Video & Movie Capture (All Websites & 14 Browsers):** Deep MAIN-world stream sniffer + AES-128 HLS decryption + MPEG-DASH (`.mpd`) muxing + Facebook/Instagram MSE stream pairing + full browser Cookie/Referer pass-through so **YouTube, Facebook, TikTok, Instagram, MovieBox, Vimeo, Dailymotion, Reddit, Twitch, X, Anime & embedded iframe video sites** download effortlessly!
+- **64X BEAST Dynamic Splitting + Undici HTTP/2 + Zero-Delay Disk Write + Bundled C++ `aria2c` v1.37:** Real-time 256 KB in-half work-stealing keeps up to 64 connections at 100% speed until the final byte, writes directly to byte offsets for **0-second instant completion**, and adds **BitTorrent / Magnet link** support!
 - **Global Country-Aware Smart Routing (BDIX + GGC + Cloudflare 1.1.1.1 + Google 8.8.8.8 ECS):** Automatically detects your country & nearest Cloudflare edge (e.g., Dhaka `DAC`), keeps local **BDIX / GGC** peering at full ISP speed, races Cloudflare & Google CDN edges for overseas files, and includes a **1-Click Windows TCP Auto-Tuning & Multi-Core RSS PC Network Booster**!
 - **16X YouTube & Song-Shop Bulk MP3 Mode:** 16-fragment `yt-dlp` turbo acceleration, **full YouTube Playlist bulk MP3/MP4 queueing**, 1-click Song Shop preset (12 simultaneous downloads!), and universal video sniffer across Chrome, Brave, Edge, Opera, Opera GX, Vivaldi, and Firefox!
 - **Built-In Pro Video & Audio Converter (4K UHD to Button Mobile 3GP):** Convert and compress any video right inside the app using the bundled open-source FFmpeg engine:
